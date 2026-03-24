@@ -1,0 +1,7 @@
+{
+  "name": "Max - Futuristic Voice Assistant",
+  "description": "A futuristic voice assistant named Max, powered by Gemini Live API, speaking English and French with an English accent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
